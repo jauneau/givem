@@ -1,0 +1,13 @@
+- user account
+    - note / comment a user
+    - user profile page    
+- add a gift
+    - auto publish on twitter / fb (user and givem account)
+- request for a gift
+    - auto publish on twitter / fb (user and givem account)
+- articles (how to fix a thing, ...)
+- forum or something to let ppl discuss.
+- search
+- wall 
+
+
